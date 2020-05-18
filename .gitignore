@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# ------------------------------- Homebrew specific stuff
+*db_credentials.py
