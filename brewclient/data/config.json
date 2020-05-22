@@ -1,0 +1,13 @@
+{
+    "client_settings":{
+        "sensors":[{
+            "name":"thermocouple",
+            "type":"temp",
+            "logging_interval":10
+        }]
+    },
+    "server_settings": {
+        "server_address": "brew.mathonwythomas.com",
+        "server_port":8337
+    }
+}
